@@ -72,7 +72,7 @@ Please note that the companion apps by themselves do <em>not</em> add dives to y
 This is a typical question for side mount divers or some tec divers. Subsurface supports having more than one tank with the same gas, even if some dive computers don't. Simply add a gas change to your second tank of the same gas as both tanks will be included in the gas use calculations. In order to add gas changes simply right-click on the profile at the appropriate spot and you will be offered to add such an event.
 
 [/expand]
-[expand title="Why is Subsurface not able to download my dives?"]
+[expand title="Why is Subsurface not able to download my dives from my dive computer?"]
 
 Clean the contacts. Clean the contacts again. Make sure the connector is firmly connected. Wiggle it. Seriously. Make sure the dive computer is in transfer mode (this isn't necessary for all dive computers but for many common ones). Check with other software that the download works in general. Try another cable. See our user manual for pairing with BT and the general use case.
 
